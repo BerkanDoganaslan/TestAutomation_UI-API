@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="6.214">
+    <testcase classname="TrelloAPI" name="The user should be able to create, add, edit and delete cards on Trello" time="6.114">
+        <system-out>
+            <![CDATA[Given User creates a board on trello........................................passed
+Then User creates two cards on the created board............................passed
+Then User updates a random number of created cards..........................passed
+Then User deletes created cards.............................................passed
+Then User deletes created board.............................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
